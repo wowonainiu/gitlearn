@@ -3,3 +3,6 @@
 4)low develop
 5)git stash - work complete
 
+7£©why master work can't be seen in develop
+
+
